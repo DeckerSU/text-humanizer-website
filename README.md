@@ -10,7 +10,7 @@ It is inspired by [humanize-ai-lib](https://github.com/Nordth/humanize-ai-lib) b
 - 🔧 **Fix Trailing Whitespace**: Removes spaces at line ends
 - 🔄 **Replace Non-Breaking Spaces**: Converts special spaces to regular ones
 - ➖ **Convert Fancy Dashes**: Changes em-dashes (—) to regular dashes (-)
-- 📝 **Normalize Quotes**: Converts curly quotes (" ") to straight ones (" ")
+- 📝 **Normalize Quotes**: Converts curly quotes (“ ”) to straight ones (" ")
 - ⋯ **Replace Ellipsis**: Changes ellipsis (…) to three dots (...)
 - ⌨️ **Keyboard-Only Characters**: Removes all non-keyboard typeable symbols
 
